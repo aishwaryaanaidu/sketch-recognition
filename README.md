@@ -32,3 +32,5 @@ Neighbors(KNN) and Scale Invariant Feature Transform(SIFT).
 ![image](https://user-images.githubusercontent.com/38344621/146685367-8b8e96d3-d5cf-45a3-bbb7-bc5745c0c30d.png)
 
 The performance evaluation metrics show that the KNN algorithm has an accuracy rate of 77% for the considered dataset while SIFT has an accuracy of 51%.
+
+For a detailed explanation of the application please refer to the paper published(https://www.ijert.org/sketch-recognition-for-image-classification-and-retrieval).
